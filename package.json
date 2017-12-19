@@ -1,0 +1,19 @@
+{
+  "name": "god_test",
+  "version": "1.0.0",
+  "description": "npm publish test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "god",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbjgod/npm_publish_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tbjgod/npm_publish_test/issues"
+  },
+  "homepage": "https://github.com/tbjgod/npm_publish_test#readme"
+}
